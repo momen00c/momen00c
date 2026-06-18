@@ -3,7 +3,6 @@
 🎓 Computer Science Student  
 🤖 Aspiring AI Engineer  
 📊 Passionate about Data Analysis, Machine Learning, and Artificial Intelligence
-
 ---
 
 ## 🚀 About Me
@@ -15,7 +14,6 @@ My journey started with programming and data analysis, and I'm currently expandi
 I enjoy learning, building projects, and improving my skills through practical applications.
 
 ---
-
 ## 🧠 Areas I'm Interested In
 
 - Artificial Intelligence
@@ -25,7 +23,6 @@ I enjoy learning, building projects, and improving my skills through practical a
 - Natural Language Processing (NLP)
 - Data Science
 - Data Analysis
-
 ---
 
 ## 🛠️ Skills
@@ -54,32 +51,7 @@ I enjoy learning, building projects, and improving my skills through practical a
 - A/B Testing
 - Regression Analysis
 - Statistical Modeling
-
 ---
-
-## 🎯 Goals
-
-My goal is to become an **AI Engineer** and build intelligent solutions using Machine Learning and Deep Learning.
-
-I'm working toward developing expertise in:
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Advanced AI Systems
-
----
-
-## 📌 Projects
-
-Here you can find my projects in:
-- Data Analysis
-- Python Programming
-- SQL
-- Power BI Dashboards
-- Machine Learning (Coming Soon)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn:www.linkedin.com/in/-031ba32a8
